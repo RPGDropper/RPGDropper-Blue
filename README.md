@@ -1,4 +1,4 @@
-![alt text](https://github.com/RPGDropper/RPGDropper-Blue/blob/master/RPGDBMain.png?raw=true "RPGDBlue Logo")
+![alt text](https://github.com/RPGDropper/RPGDropper-Blue/blob/master/RPGDBMain.png?raw=true "RPG Dropper Blue Logo")
 <h1>RPG Dropper Blue</h1>
 RPG Dropper Blue is made specificaly for develepment builds. This pack has experimental features that may or may not work (View MIT)
 <h2>Installation</h2>
